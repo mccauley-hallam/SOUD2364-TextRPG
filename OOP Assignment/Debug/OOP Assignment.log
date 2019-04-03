@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OOP Assigmnet.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+c:\users\mccauley hallam\source\repos\oop assigmnet\oop assigmnet\game.h(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assigmnet\oop assigmnet\game.cpp(313): warning C4717: 'Menu': recursive on all control paths, function will cause runtime stack overflow
+  OOP Assigmnet.vcxproj -> C:\Users\McCauley Hallam\source\repos\OOP Assigmnet\Debug\OOP Assignment.exe

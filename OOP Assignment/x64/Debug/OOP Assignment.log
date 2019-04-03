@@ -1,0 +1,9 @@
+﻿  game.cpp
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.h(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.h(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.cpp(367): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.cpp(372): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.cpp(374): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.cpp(379): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mccauley hallam\source\repos\oop assignment\oop assigmnet\game.cpp(334): warning C4717: 'Menu': recursive on all control paths, function will cause runtime stack overflow
+  OOP Assigmnet.vcxproj -> C:\Users\McCauley Hallam\source\repos\OOP Assignment\x64\Debug\OOP Assignment.exe
